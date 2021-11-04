@@ -1,2 +1,2 @@
-# DCIT-202-IA
-Interim Assessment of DCIT 202
+# React-Native-E-commerce-App
+DCIT IA E-commerce Mobile App
