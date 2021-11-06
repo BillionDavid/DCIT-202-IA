@@ -1,2 +1,5 @@
 # React-Native-E-commerce-App
-DCIT IA E-commerce Mobile App
+DCIT IA E-commerce App
+ID: 10841867
+APPIAH DAVID AMOAKO
+COMPUTER SCIENCE LEVEL 200
